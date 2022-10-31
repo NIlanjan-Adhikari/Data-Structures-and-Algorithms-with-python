@@ -1,2 +1,2 @@
-# DSAlgo
-Data structures and algorithms leetcode
+# Data-Structures-and-Algorithms-with-python
+
